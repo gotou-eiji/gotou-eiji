@@ -1,6 +1,6 @@
 ### Welcome! 👋
 ◽ 💮 My name is Rafael Eiji Goto, I'm 17 years old;<br>
-◽ ⛩ I'm from Osaka, and currently living in Maringá;<br>
+◽ 🇯🇵 I'm from Osaka, and currently living in Maringá;<br>
 ◽ 🎓 Finishing high school at Colégio Sesi;<br>
 ◽ 🖥 Studying Development and Integration of Systems at SENAI;<br>
 ◽ 🎮 I like to play osu!, LoL and CS at my free time. Feel free to call me!<br>
