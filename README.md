@@ -13,4 +13,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gotou_eiji1/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxG_Jrh_uHQmeoq0IG0j5NQ)
 
-Discord: eiji#7814 and my ![osu! profile](https://osu.ppy.sh/users/6063827)
+Discord: eiji#7814<br>
+[osu! profile](https://osu.ppy.sh/users/6063827)
