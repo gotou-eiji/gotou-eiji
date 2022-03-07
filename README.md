@@ -3,7 +3,7 @@
 ◽ ⛩ I'm from Osaka, and currently living in Maringá;<br>
 ◽ 🎓 Finishing high school at Colégio Sesi;<br>
 ◽ 🖥 Studying Development and Integration of Systems at SENAI;<br>
-◽ 🎮 I like to play osu!, LoL and CS at my free time. Feel free to call me!<br>
+◽ 🎮 I play osu!, LoL and CS in my free time. Feel free to call me!<br>
 ◽ 🌎 I can speak Portuguese and English, currently stuying Japanese;<br>
 
 ![Eiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotou-eiji&show_icons=true&theme=dark)
