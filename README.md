@@ -1,10 +1,10 @@
 ### Welcome! 👋
-◽ My name is Rafael Eiji Goto, I'm 17 years old;<br>
-◽ I'm from Osaka, currently living in Maringá;<br>
-◽ Finishing high school at Colégio Sesi;<br>
-◽ Studying Development and Integration of Systems at SENAI;<br>
-◽ I like to play osu!, LoL and CS at my free time. Feel free to call me!<br>
-◽ I can speak Portuguese and English, currently stuying Japanese;<br>
+◽ 💮 My name is Rafael Eiji Goto, I'm 17 years old;<br>
+◽ ⛩ I'm from Osaka, and currently living in Maringá;<br>
+◽ 🎓 Finishing high school at Colégio Sesi;<br>
+◽ 🖥 Studying Development and Integration of Systems at SENAI;<br>
+◽ 🎮 I like to play osu!, LoL and CS at my free time. Feel free to call me!<br>
+◽ 🌎 I can speak Portuguese and English, currently stuying Japanese;<br>
 
 ![Eiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotou-eiji&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotou-eiji&layout=compact&theme=dark)<br>
