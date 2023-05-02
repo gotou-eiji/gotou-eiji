@@ -1,7 +1,7 @@
 ### Welcome! 👋
 ◽ 💮 My name is Rafael Eiji Goto (ラファエル後藤英次);<br>
 ◽ ⛩ I'm from Osaka, and currently living in Maringá;<br>
-◽ 🎓 Finishing high school at Colégio Sesi;<br>
+◽ 🎓 Software Engineering's student at UniCV;<br>
 ◽ 🖥 Studying Development and Integration of Systems at SENAI;<br>
 ◽ 🎮 I play osu!, LoL and CS in my free time. Feel free to call me!<br>
 ◽ 🌎 I can speak Portuguese and English, currently stuying Japanese;<br>
