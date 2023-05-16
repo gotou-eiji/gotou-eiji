@@ -2,7 +2,7 @@
 ◽ 💮 I am Rafael Eiji Goto;<br>
 ◽ 🏠 Currently living in Maringá;<br>
 ◽ 🎓 Software Engineering's student at UniCV;<br>
-◽ 🖥 Studying Software Engineering at UniCV, studying Development and Integration of Systems at SENAI;<br>
+◽ 🖥 Development and Integration of Systems' student at SENAI;<br>
 ◽ 🌎 I can speak Portuguese and English fluently;<br>
 
 ![Eiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotou-eiji&show_icons=true&theme=dark)
