@@ -1,10 +1,9 @@
 ### Welcome! 👋
-◽ 💮 My name is Rafael Eiji Goto (ラファエル後藤英次);<br>
-◽ ⛩ I'm from Osaka, and currently living in Maringá;<br>
+◽ 💮 I am Rafael Eiji Goto;<br>
+◽ 🏠 Currently living in Maringá;<br>
 ◽ 🎓 Software Engineering's student at UniCV;<br>
-◽ 🖥 Studying Development and Integration of Systems at SENAI;<br>
-◽ 🎮 I play osu!, LoL and CS in my free time. Feel free to call me!<br>
-◽ 🌎 I can speak Portuguese and English, currently stuying Japanese;<br>
+◽ 🖥 Studying Software Engineering at UniCV, studying Development and Integration of Systems at SENAI;<br>
+◽ 🌎 I can speak Portuguese and English fluently;<br>
 
 ![Eiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotou-eiji&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotou-eiji&layout=compact&theme=dark)<br>
